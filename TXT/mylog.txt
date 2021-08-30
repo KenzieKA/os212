@@ -1,4 +1,5 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC  WOO  10 L03  GitHub related
+ZCZC WOO 30 L03 GitHub related
+ZCZC WOO 50 L01 SCELE/Discord related
