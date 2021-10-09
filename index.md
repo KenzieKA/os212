@@ -2,24 +2,39 @@
 permalink: /LINKS/
 ---
 
-# ALL PRECIOUS LINKS
+## Links of Week 1
 
-### 1. [Scele CS - Universitas Indonesia](https://scele.cs.ui.ac.id/)
-> Scele CS UI merupakan link untuk keperluan mahasiswa Fasilkom UI.
-> Link ini sangat berguna untuk mengakses segala tugas dan materi yang ada terkait perkuliahan.
+### [Computer Basics: Understanding Operating Systems](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/)
+Artikel ini dapat meningkatkan pemahaman mengenai Sistem Operasi sebelum melanjutkan ke topik pembelajaran berikutnya.
 
-### 2. [Youtube](https://www.youtube.com/)
-> Youtube merupakan platform untuk menonton video.
-> Youtube sangat berguna untuk mencari sumber belajar seperti topik tentang Cybersecurity dan lainnya.
+### [What is virtualization?](https://opensource.com/resources/virtualization)
+Link ini dapat membantu pemahaman mengenai virtualisasi.
 
-### 3. [Google](https://www.google.com/?hl=id)
-> Google merupakan search engine yang memudahkan kita mencari apa saja.
-> Google sangat berguna karena dapat memudahkan dalam mencari sumber belajar dan lain sebagainya.
+### [What Is Cloud Computing?](https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/)
+Artikel ini menjelaskan dengan lengkap apa itu komputasi awan, keuntungan menggunakan komputasi awan, model komputasi awan, kegunaan komputasi awan, dan masih banyak lagi.
 
-### 4. [Github](https://github.com/)
-> Github merupakan website untuk menyimpan dan mengelola data.
-> Github berguna sekali terutama untuk mata kuliah OS.
+## Links of Week 2
 
-### 5. [Gitlab](https://about.gitlab.com/)
-> Pada dasarnya, Gitlab memiliki fungsi yang sama seperti Github.
-> Gitlab dipakai untuk mata kuliah PBP.
+### [What is Cyber Security?](https://www.kaspersky.com/resource-center/definitions/what-is-cyber-security)
+Artikel ini menerangkan tentang apa itu keamanan siber, tipe-tipe ancaman siber, tips terkait keamanan siber, dan lainnya.
+
+## Links of Week 3
+
+### [File System](https://www.javatpoint.com/file-system)
+Link ini dapat membantu pemahaman sistem berkas, contoh-contoh sistem berkas, arsitektur sistem berkas, dan tipe-tipe sistem berkas.
+
+## Links of Week 4
+
+### [Shared Libraries in Linux](https://www.tecmint.com/understanding-shared-libraries-in-linux/)
+Artikel ini akan menjelaskan lebih jauh mengenai shared libraries di Linux, Penamaannya, pencarian letak shared libraries di Linux dan cara mengelola shared libraries pada Linux.
+
+### [Static Libraries vs Dynamic Libraries in Linux](https://medium.com/swlh/linux-basics-static-libraries-vs-dynamic-libraries-a7bcf8157779)
+Artikel ini akan menjelaskan perbedaan antara static libraries dan dynamic libraries pada Linux. Artikel ini juga membahas kelebihan dan kekurangan dari masing-masing libraries.
+
+##Links of Week 5
+
+### [What is Virtual Memory?](https://searchstorage.techtarget.com/definition/virtual-memory)
+Overviewnya, artikel ini akan membantu pemahaman lebih jauh tentang apa itu memori virtual. Artikel ini juga akan menjelaskan bagaimana cara kerja memori virtual, tipe-tipe memori virtual, cara mengelola memori virtual, keuntungan menggunakan memori virtual dan masih banyak lagi. Silahkan dibaca bila ingin tahu lebih lanjut.
+
+### [What is Caching and How it Works](https://aws.amazon.com/id/caching/)
+Artikel ini menjelaskan secara singkat apa itu caching, cara kerja caching, keuntungannya, dan lainnya.
