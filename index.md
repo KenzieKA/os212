@@ -31,7 +31,7 @@ Artikel ini akan menjelaskan lebih jauh mengenai shared libraries di Linux, Pena
 ### [Static Libraries vs Dynamic Libraries in Linux](https://medium.com/swlh/linux-basics-static-libraries-vs-dynamic-libraries-a7bcf8157779)
 Artikel ini akan menjelaskan perbedaan antara static libraries dan dynamic libraries pada Linux. Artikel ini juga membahas kelebihan dan kekurangan dari masing-masing libraries.
 
-##Links of Week 5
+## Links of Week 5
 
 ### [What is Virtual Memory?](https://searchstorage.techtarget.com/definition/virtual-memory)
 Overviewnya, artikel ini akan membantu pemahaman lebih jauh tentang apa itu memori virtual. Artikel ini juga akan menjelaskan bagaimana cara kerja memori virtual, tipe-tipe memori virtual, cara mengelola memori virtual, keuntungan menggunakan memori virtual dan masih banyak lagi. Silahkan dibaca bila ingin tahu lebih lanjut.
