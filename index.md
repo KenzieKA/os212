@@ -38,3 +38,11 @@ Overviewnya, artikel ini akan membantu pemahaman lebih jauh tentang apa itu memo
 
 ### [What is Caching and How it Works](https://aws.amazon.com/id/caching/)
 Artikel ini menjelaskan secara singkat apa itu caching, cara kerja caching, keuntungannya, dan lainnya.
+
+## Links of Week 6
+
+### [Multithreading and Concurrency Fundamentals](https://www.educative.io/blog/multithreading-and-concurrency-fundamentals)
+Link diatas membantu memahami lebih lanjut tentang multithreading, kegunaannya, konsepnya, dan masih banyak lagi.
+
+### [Threads and Concurrency - Operating System Notes](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)
+Link diatas sedikit banyak merupakan "cheat sheet" versi panjang yang membantu untuk memahami process dan juga thread serta masih banyak hal lagi. Silahkan dibuka dan explore sendiri.
