@@ -46,3 +46,11 @@ Link diatas membantu memahami lebih lanjut tentang multithreading, kegunaannya, 
 
 ### [Threads and Concurrency - Operating System Notes](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)
 Link diatas sedikit banyak merupakan "cheat sheet" versi panjang yang membantu untuk memahami process dan juga thread serta masih banyak hal lagi. Silahkan dibuka dan explore sendiri.
+
+## Links of Week 7
+
+### [Difference between Deadlock and Starvation](https://www.javatpoint.com/deadlock-vs-starvation)
+Link diatas membantu dalam memahami apa itu deadlock, starvation beserta perbedaan antara keduanya.
+
+### [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+Link diatas menjelaskan tentang sinkronisasi dalam OS. Silahkan dibaca untuk membantu pemahaman.
